@@ -80,7 +80,7 @@ Gold Layer (ADLS Gen2)
 - Azure Synapse Analytics workspace
 - Azure Entra ID App Registration (Service Principal)
 
-> **Note:** In production, use [Databricks Secrets](https://docs.databricks.com/security/secrets/index.html) to manage credentials securely instead of hardcoding them.
+> **Note:** In production, use Databricks Secrets to manage credentials securely instead of hardcoding them.
 
 ---
 
