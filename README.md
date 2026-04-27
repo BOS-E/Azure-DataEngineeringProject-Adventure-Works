@@ -9,6 +9,7 @@ Built to gain hands-on experience with Azure data services.
 ## Architecture
 <img width="716" height="403" alt="image" src="https://github.com/user-attachments/assets/0ff4933b-eeda-4291-8109-21ab9feb307f" />
 
+---
 
 ```
 GitHub (CSV files)
